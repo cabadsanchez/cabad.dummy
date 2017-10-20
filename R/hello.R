@@ -7,7 +7,7 @@
 #' hola()
 #' @export
 hola <- function() {
-  return("Hello, world!")
+  return("Hello, World!")
 }
 
 #' suma
